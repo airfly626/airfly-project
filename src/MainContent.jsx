@@ -17,7 +17,7 @@ const cardData = [
         img: '/coffeeApp.png',
         alt: 'Cat Coffee',
         sub: '點飲品系統',
-        description: '簡單的登入驗證、有資料儲存可看個人消費資訊；已有test@mail.com密碼123456'
+        description: '簡單的登入驗證、可註冊、可資料儲存、可看個人消費資訊；已有test@mail.com密碼123456'
     },
     {
         title: 'Rect + Material UI',
