@@ -44,7 +44,7 @@ export default function MainContent() {
     return (
         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 4, pb: 5 }}>
             <Typography gutterBottom variant="h4" component="div" sx={{ textAlign: 'center', mx: 1, py: 4 }}>
-                作品集
+                作品集 
             </Typography>
             <Grid container spacing={2} columns={12}
                 sx={{
