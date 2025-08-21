@@ -27,6 +27,14 @@ const cardData = [
         sub: 'API 天氣資料串接',
         description: 'Open Data、API key、可查尋全球城市天氣'
     },
+    {
+        title: 'Rect + Material UI',
+        url: 'https://airfly-ai-gpt.netlify.app/',
+        img: '/chatGPT.png',
+        alt: 'Chat APP',
+        sub: 'API串接ChatGPT',
+        description: 'API key、可聊天'
+    },
 ];
 
 
