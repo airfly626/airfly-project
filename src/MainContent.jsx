@@ -33,7 +33,7 @@ const cardData = [
         img: '/chatGPT.png',
         alt: 'Chat APP',
         sub: 'API串接ChatGPT',
-        description: 'API key、可聊天'
+        description: 'API key、可聊天、可語音轉文字'
     },
 ];
 
