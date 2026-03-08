@@ -35,6 +35,14 @@ const cardData = [
         sub: 'API串接ChatGPT',
         description: 'API key、可聊天、可語音轉文字'
     },
+    {
+        title: '學習小專題',
+        url: 'https://drive.google.com/file/d/132s_WPyUUllpGR7jl_F5E3XSNy8VF6Lc/view',
+        img: './movie.webp',
+        alt: 'Python機器學習',
+        sub: 'Python機器學習',
+        description: '學習小專題報告'
+    }
 ];
 
 
