@@ -12,6 +12,14 @@ import Link from '@mui/material/Link';
 
 const cardData = [
     {
+        title: 'Symfony 8 + Rect + API',
+        url: 'https://www.aiirly.com/',
+        img: '/dailySpendApp.png',
+        alt: 'Daily Spend',
+        sub: '每日消費系統',
+        description: '前後端分離、CRUD、欄位檢查、可儲存'
+    },
+    {
         title: 'Rect + Boostrap',
         url: 'https://airfly-cat-coffee.netlify.app/',
         img: '/coffeeApp.png',
@@ -52,7 +60,7 @@ export default function MainContent() {
     return (
         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 4, pb: 5 }}>
             <Typography gutterBottom variant="h4" component="div" sx={{ textAlign: 'center', mx: 1, py: 4 }}>
-                作品集 
+                作品集
             </Typography>
             <Grid container spacing={2} columns={12}
                 sx={{
